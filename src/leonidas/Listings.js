@@ -29,11 +29,9 @@ export default class Header extends Component {
           <div className="listing">
             <div className="listing-img" style={{background: `url("${listing.image}") no-repeat center center`}}>
               <div className="details">
-                {/* <div className="col-md-9"> */}
                   <div className="view-btn">
                     View Item
                   </div>
-                {/* </div> */}
               </div>
             </div>
             <div className="bottom-info">
@@ -48,11 +46,9 @@ export default class Header extends Component {
           <div className="listing">
             <div className="listing-img" style={{background: `url("${listing.image}") no-repeat center center`}}>
               <div className="details">
-                {/* <div className="col-md-9"> */}
                   <div className="view-btn-long">
                     View Item
                   </div>
-                {/* </div> */}
               </div>
             </div>
             <div className="bottom-info">
